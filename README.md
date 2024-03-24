@@ -16,7 +16,7 @@ Atualmente, recebi o convite para participar do programa de formação de novos 
 
 
 #### O que estou fazendo atualmente
-- :computer:  Trabalho como programador Java Júnior na empresa *Foursys*.
+- :computer:  Trabalho como programador júnior na empresa *Foursys*.
 - :video_game:  Gamer de longa data, não importando plataforma ou estilo.
 - :bulb:   Sempre estou aprendendo coisas novas, desde jogar xadrez à fazer a xícara de café perfeita.
 - :dog:  Apaixonado por animais, especialmente cães.
